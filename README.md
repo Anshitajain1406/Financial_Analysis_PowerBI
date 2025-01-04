@@ -130,37 +130,3 @@ Under the GLOBAL options, go to 'Preview features' and de-select all options.
 Under the CURRENT FILE options, go to 'Data load' and de-select the two options: (i) Update or delete relationships when refreshing data, and (ii) Autodetect new relationships after data is loaded.
 
 Finally, again under the CURRENT FILE options, go to 'Regional Settings' and make the appropriate selection for your region.
-
-**3. Download My Project Files**
-
-Now that everything is set up, you simply have to download all my project files as they are into a folder on your machine, open the Power BI file (the one with .pbix extension) and have fun!
-
-
-## Future Steps
-
-For future improvement, we can consider the following ideas:
-- Attempt to create more visually appealing dashboards (perhaps you can find a template to use?).
-- Perhaps there is a way to generalize this dashboard so anyone can use it? (Launch via Docker container?)
-  - Would need to ask users to standardize their Excel sheets a certain way?
-- Think of new informative metrics that may be useful.
-- Create new or modify existing dashboards for ease-of-use on mobile/tablet devices. (Can be done in Power BI Desktop)
-
-
-## Author
-
-- **AJ Singh** (https://github.com/aj112358/)
-
-
-## Acknowledgements
-
-- Creators of Microsoft PowerBI - It's a pretty amazing tool!
-- All the kind and patient cashiers who took the time to print out a receipt for me.
-- Viewers of my GitHub page...Thanks for visiting!
-
-
-<!-- Image References -->
-
-[ExecSumm]: images/executive_summary.png "Main summary of data"
-[Granular]: images/granular_info.png "Second dashboard for detailed inormation"
-[DashPlan]: images/dashboard_planning.jpg "My original layout for the dashboards"
-[Questions]: images/investigative_questions.jpg "The original questions I wanted answers to"
